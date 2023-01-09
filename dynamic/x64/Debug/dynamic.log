@@ -1,0 +1,7 @@
+﻿  dynamic.cpp
+C:\Users\7516246\source\repos\cscAoA\dynamic\dynamic.cpp(30,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\7516246\source\repos\cscAoA\dynamic\dynamic.cpp(50,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\7516246\source\repos\cscAoA\dynamic\dynamic.cpp(102,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\7516246\source\repos\cscAoA\dynamic\dynamic.cpp(122,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\7516246\source\repos\cscAoA\dynamic\dynamic.cpp(256): warning C4715: 'print': not all control paths return a value
+  dynamic.vcxproj -> C:\Users\7516246\source\repos\cscAoA\dynamic\x64\Debug\dynamic.exe
